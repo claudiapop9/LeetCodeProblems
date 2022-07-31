@@ -1,0 +1,15 @@
+C:\Users\claudia.pop\source\repos\LeetCodePb\LeetCodePb\bin\Debug\net6.0\LeetCodePb.exe
+C:\Users\claudia.pop\source\repos\LeetCodePb\LeetCodePb\bin\Debug\net6.0\LeetCodePb.deps.json
+C:\Users\claudia.pop\source\repos\LeetCodePb\LeetCodePb\bin\Debug\net6.0\LeetCodePb.runtimeconfig.json
+C:\Users\claudia.pop\source\repos\LeetCodePb\LeetCodePb\bin\Debug\net6.0\LeetCodePb.dll
+C:\Users\claudia.pop\source\repos\LeetCodePb\LeetCodePb\bin\Debug\net6.0\LeetCodePb.pdb
+C:\Users\claudia.pop\source\repos\LeetCodePb\LeetCodePb\obj\Debug\net6.0\LeetCodePb.csproj.AssemblyReference.cache
+C:\Users\claudia.pop\source\repos\LeetCodePb\LeetCodePb\obj\Debug\net6.0\LeetCodePb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudia.pop\source\repos\LeetCodePb\LeetCodePb\obj\Debug\net6.0\LeetCodePb.AssemblyInfoInputs.cache
+C:\Users\claudia.pop\source\repos\LeetCodePb\LeetCodePb\obj\Debug\net6.0\LeetCodePb.AssemblyInfo.cs
+C:\Users\claudia.pop\source\repos\LeetCodePb\LeetCodePb\obj\Debug\net6.0\LeetCodePb.csproj.CoreCompileInputs.cache
+C:\Users\claudia.pop\source\repos\LeetCodePb\LeetCodePb\obj\Debug\net6.0\LeetCodePb.dll
+C:\Users\claudia.pop\source\repos\LeetCodePb\LeetCodePb\obj\Debug\net6.0\refint\LeetCodePb.dll
+C:\Users\claudia.pop\source\repos\LeetCodePb\LeetCodePb\obj\Debug\net6.0\LeetCodePb.pdb
+C:\Users\claudia.pop\source\repos\LeetCodePb\LeetCodePb\obj\Debug\net6.0\LeetCodePb.genruntimeconfig.cache
+C:\Users\claudia.pop\source\repos\LeetCodePb\LeetCodePb\obj\Debug\net6.0\ref\LeetCodePb.dll
