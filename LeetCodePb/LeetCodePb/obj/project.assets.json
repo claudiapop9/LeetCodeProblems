@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\claudia.pop\\source\\repos\\LeetCodePb\\LeetCodePb\\LeetCodePb.csproj",
+      "projectUniqueName": "C:\\Users\\claudia.pop\\Documents\\repositories\\LeetCodeProblems\\LeetCodePb\\LeetCodePb\\LeetCodePb.csproj",
       "projectName": "LeetCodePb",
-      "projectPath": "C:\\Users\\claudia.pop\\source\\repos\\LeetCodePb\\LeetCodePb\\LeetCodePb.csproj",
+      "projectPath": "C:\\Users\\claudia.pop\\Documents\\repositories\\LeetCodeProblems\\LeetCodePb\\LeetCodePb\\LeetCodePb.csproj",
       "packagesPath": "C:\\Users\\claudia.pop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\claudia.pop\\source\\repos\\LeetCodePb\\LeetCodePb\\obj\\",
+      "outputPath": "C:\\Users\\claudia.pop\\Documents\\repositories\\LeetCodeProblems\\LeetCodePb\\LeetCodePb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
