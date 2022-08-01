@@ -4,7 +4,8 @@ namespace LeetCodePb
 {
 	internal class ValidParentheses
 	{
-		internal void PrintValidParenthesesSolution() {
+		internal void PrintValidParenthesesSolution()
+		{
 			Console.WriteLine("---------- ValidParentheses ------------\n");
 			var s = "()";
 			Console.WriteLine($"Example 1 is {IsValid(s)}");
@@ -34,7 +35,6 @@ namespace LeetCodePb
 				{
 					parenthesesStack.Push(s[i]);
 				}
-;
 			}
 
 			if (parenthesesStack.Count == 0) return true;
